@@ -1,0 +1,35 @@
+#!/usr/bin/env php
+<?php
+
+include __DIR__ . '/../vendor/autoload.php';
+
+class Tld extends Umpirsky\ListGenerator\Importer\Importer
+{
+    public function getLanguages()
+    {
+        return ['en'];
+    }
+
+    public function getData($language)
+    {
+        $data = explode(
+            PHP_EOL,
+            file_get_contents('https://data.iana.org/TLD/tlds-alpha-by-domain.txt')
+        );
+        array_shift($data);
+        array_pop($data);
+
+        $tlds = [];
+        foreach ($data as $tld) {
+            $tld = strtolower($tld);
+            $tlds[$tld] = idn_to_utf8($tld);
+        }
+
+        return $tlds;
+    }
+}
+
+(new Umpirsky\ListGenerator\Builder\Builder(
+    new Tld(),
+    __DIR__.'/../data'
+))->run();
