@@ -13,6 +13,7 @@
         "php": ">=5.4"
     },
     "require-dev": {
+        "ext-intl": "*",
         "umpirsky/list-generator": "^1.1"
     }
 }
