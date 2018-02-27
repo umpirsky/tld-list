@@ -28,6 +28,7 @@ aetna,aetna
 af,af
 afamilycompany,afamilycompany
 afl,afl
+africa,africa
 ag,ag
 agakhan,agakhan
 agency,agency
@@ -59,12 +60,14 @@ android,android
 anquan,anquan
 anz,anz
 ao,ao
+aol,aol
 apartments,apartments
 app,app
 apple,apple
 aq,aq
 aquarelle,aquarelle
 ar,ar
+arab,arab
 aramco,aramco
 archi,archi
 army,army
@@ -165,8 +168,10 @@ booking,booking
 boots,boots
 bosch,bosch
 bostik,bostik
+boston,boston
 bot,bot
 boutique,boutique
+box,box
 br,br
 bradesco,bradesco
 bridgestone,bridgestone
@@ -217,6 +222,7 @@ cash,cash
 casino,casino
 cat,cat
 catering,catering
+catholic,catholic
 cba,cba
 cbn,cbn
 cbre,cbre
@@ -238,7 +244,6 @@ chase,chase
 chat,chat
 cheap,cheap
 chintai,chintai
-chloe,chloe
 christmas,christmas
 chrome,chrome
 chrysler,chrysler
@@ -300,6 +305,7 @@ creditunion,creditunion
 cricket,cricket
 crown,crown
 crs,crs
+cruise,cruise
 cruises,cruises
 csc,csc
 cu,cu
@@ -314,6 +320,7 @@ cz,cz
 dabur,dabur
 dad,dad
 dance,dance
+data,data
 date,date
 dating,dating
 datsun,datsun
@@ -395,6 +402,7 @@ esq,esq
 estate,estate
 esurance,esurance
 et,et
+etisalat,etisalat
 eu,eu
 eurovision,eurovision
 eus,eus
@@ -446,6 +454,7 @@ fly,fly
 fm,fm
 fo,fo
 foo,foo
+food,food
 foodnetwork,foodnetwork
 football,football
 ford,ford
@@ -455,6 +464,7 @@ forum,forum
 foundation,foundation
 fox,fox
 fr,fr
+free,free
 fresenius,fresenius
 frl,frl
 frogans,frogans
@@ -463,6 +473,7 @@ frontier,frontier
 ftr,ftr
 fujitsu,fujitsu
 fujixerox,fujixerox
+fun,fun
 fund,fund
 furniture,furniture
 futbol,futbol
@@ -526,6 +537,7 @@ graphics,graphics
 gratis,gratis
 green,green
 gripe,gripe
+grocery,grocery
 group,group
 gs,gs
 gt,gt
@@ -538,6 +550,7 @@ guitars,guitars
 guru,guru
 gw,gw
 gy,gy
+hair,hair
 hamburg,hamburg
 hangout,hangout
 haus,haus
@@ -569,17 +582,18 @@ homesense,homesense
 honda,honda
 honeywell,honeywell
 horse,horse
+hospital,hospital
 host,host
 hosting,hosting
 hot,hot
 hoteles,hoteles
+hotels,hotels
 hotmail,hotmail
 house,house
 how,how
 hr,hr
 hsbc,hsbc
 ht,ht
-htc,htc
 hu,hu
 hughes,hughes
 hyatt,hyatt
@@ -592,7 +606,6 @@ id,id
 ie,ie
 ieee,ieee
 ifm,ifm
-iinet,iinet
 ikano,ikano
 il,il
 im,im
@@ -637,6 +650,7 @@ je,je
 jeep,jeep
 jetzt,jetzt
 jewelry,jewelry
+jio,jio
 jlc,jlc
 jll,jll
 jm,jm
@@ -730,6 +744,7 @@ live,live
 living,living
 lixil,lixil
 lk,lk
+llc,llc
 loan,loan
 loans,loans
 locker,locker
@@ -763,6 +778,7 @@ makeup,makeup
 man,man
 management,management
 mango,mango
+map,map
 market,market
 marketing,marketing
 markets,markets
@@ -772,8 +788,6 @@ maserati,maserati
 mattel,mattel
 mba,mba
 mc,mc
-mcd,mcd
-mcdonalds,mcdonalds
 mckinsey,mckinsey
 md,md
 me,me
@@ -786,6 +800,7 @@ memorial,memorial
 men,men
 menu,menu
 meo,meo
+merckmsd,merckmsd
 metlife,metlife
 mg,mg
 mh,mh
@@ -805,6 +820,7 @@ mma,mma
 mn,mn
 mo,mo
 mobi,mobi
+mobile,mobile
 mobily,mobily
 moda,moda
 moe,moe
@@ -813,11 +829,11 @@ mom,mom
 monash,monash
 money,money
 monster,monster
-montblanc,montblanc
 mopar,mopar
 mormon,mormon
 mortgage,mortgage
 moscow,moscow
+moto,moto
 motorcycles,motorcycles
 mov,mov
 movie,movie
@@ -829,12 +845,10 @@ ms,ms
 msd,msd
 mt,mt
 mtn,mtn
-mtpc,mtpc
 mtr,mtr
 mu,mu
 museum,museum
 mutual,mutual
-mutuelle,mutuelle
 mv,mv
 mw,mw
 mx,mx
@@ -913,7 +927,6 @@ oracle,oracle
 orange,orange
 org,org
 organic,organic
-orientexpress,orientexpress
 origins,origins
 osaka,osaka
 otsuka,otsuka
@@ -921,7 +934,6 @@ ott,ott
 ovh,ovh
 pa,pa
 page,page
-pamperedchef,pamperedchef
 panasonic,panasonic
 panerai,panerai
 paris,paris
@@ -939,7 +951,9 @@ pfizer,pfizer
 pg,pg
 ph,ph
 pharmacy,pharmacy
+phd,phd
 philips,philips
+phone,phone
 photo,photo
 photography,photography
 photos,photos
@@ -1012,6 +1026,7 @@ rehab,rehab
 reise,reise
 reisen,reisen
 reit,reit
+reliance,reliance
 ren,ren
 rent,rent
 rentals,rentals
@@ -1027,8 +1042,10 @@ rich,rich
 richardli,richardli
 ricoh,ricoh
 rightathome,rightathome
+ril,ril
 rio,rio
 rip,rip
+rmit,rmit
 ro,ro
 rocher,rocher
 rocks,rocks
@@ -1038,6 +1055,7 @@ room,room
 rs,rs
 rsvp,rsvp
 ru,ru
+rugby,rugby
 ruhr,ruhr
 run,run
 rw,rw
@@ -1079,6 +1097,7 @@ scor,scor
 scot,scot
 sd,sd
 se,se
+search,search
 seat,seat
 secure,secure
 security,security
@@ -1138,6 +1157,7 @@ sony,sony
 soy,soy
 space,space
 spiegel,spiegel
+sport,sport
 spot,spot
 spreadbetting,spreadbetting
 sr,sr
@@ -1350,13 +1370,16 @@ xin,xin
 xn--11b4c3d,कॉम
 xn--1ck2e1b,セール
 xn--1qqw23a,佛山
+xn--2scrj9c,ಭಾರತ
 xn--30rr7y,慈善
 xn--3bst00m,集团
 xn--3ds443g,在线
 xn--3e0b707e,한국
+xn--3hcrj9c,ଭାରତ
 xn--3oq18vl8pn36a,大众汽车
 xn--3pxu8k,点看
 xn--42c2d9a,คอม
+xn--45br5cyl,ভাৰত
 xn--45brj9c,ভারত
 xn--45q11c,八卦
 xn--4gbrim,موقع
@@ -1369,6 +1392,7 @@ xn--6frz82g,移动
 xn--6qq986b3xl,我爱你
 xn--80adxhks,москва
 xn--80ao21a,қаз
+xn--80aqecdr1a,католик
 xn--80asehdb,онлайн
 xn--80aswg,сайт
 xn--8y0a063a,联通
@@ -1409,7 +1433,9 @@ xn--g2xx48c,购物
 xn--gckr3f0f,クラウド
 xn--gecrj9c,ભારત
 xn--gk3at1e,通販
+xn--h2breg3eve,भारतम्
 xn--h2brj9c,भारत
+xn--h2brj9c8c,भारोत
 xn--hxt814e,网店
 xn--i1b6b1a6a2e,संगठन
 xn--imr513n,餐厅
@@ -1430,14 +1456,19 @@ xn--mgb9awbf,عمان
 xn--mgba3a3ejt,ارامكو
 xn--mgba3a4f16a,ایران
 xn--mgba7c0bbn0a,العليان
+xn--mgbaakc7dvf,اتصالات
 xn--mgbaam7a8h,امارات
 xn--mgbab2bd,بازار
+xn--mgbai9azgqp6j,پاکستان
 xn--mgbayh7gpa,الاردن
 xn--mgbb9fbpob,موبايلي
+xn--mgbbh1a,بارت
 xn--mgbbh1a71e,بھارت
 xn--mgbc0a9azcg,المغرب
 xn--mgbca7dzdo,ابوظبي
 xn--mgberp4a5d4ar,السعودية
+xn--mgbgu82a,ڀارت
+xn--mgbi4ecexp,كاثوليك
 xn--mgbpl2fh,سودان
 xn--mgbt3dhd,همراه
 xn--mgbtx2b,عراق
@@ -1447,12 +1478,14 @@ xn--mk1bu44c,닷컴
 xn--mxtq1m,政府
 xn--ngbc5azd,شبكة
 xn--ngbe9e0a,بيتك
+xn--ngbrx,عرب
 xn--node,გე
 xn--nqv7f,机构
 xn--nqv7fs00ema,组织机构
 xn--nyqy26a,健康
 xn--o3cw4h,ไทย
 xn--ogbpf8fl,سورية
+xn--otu796d,招聘
 xn--p1acf,рус
 xn--p1ai,рф
 xn--pbt977c,珠宝
@@ -1463,10 +1496,12 @@ xn--qcka1pmc,グーグル
 xn--qxam,ελ
 xn--rhqv96g,世界
 xn--rovu88b,書籍
+xn--rvc1e0am3e,ഭാരതം
 xn--s9brj9c,ਭਾਰਤ
 xn--ses554g,网址
 xn--t60b56a,닷넷
 xn--tckwe,コム
+xn--tiq49xqyj,天主教
 xn--unup4y,游戏
 xn--vermgensberater-ctb,vermögensberater
 xn--vermgensberatung-pwb,vermögensberatung
