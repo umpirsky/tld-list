@@ -165,7 +165,6 @@
   'boo' => 'boo',
   'book' => 'book',
   'booking' => 'booking',
-  'boots' => 'boots',
   'bosch' => 'bosch',
   'bostik' => 'bostik',
   'boston' => 'boston',

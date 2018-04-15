@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'aaa', E'aaa');
 INSERT INTO "list" ("id", "value") VALUES (E'aarp', E'aarp');
@@ -166,7 +166,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'bond', E'bond');
 INSERT INTO "list" ("id", "value") VALUES (E'boo', E'boo');
 INSERT INTO "list" ("id", "value") VALUES (E'book', E'book');
 INSERT INTO "list" ("id", "value") VALUES (E'booking', E'booking');
-INSERT INTO "list" ("id", "value") VALUES (E'boots', E'boots');
 INSERT INTO "list" ("id", "value") VALUES (E'bosch', E'bosch');
 INSERT INTO "list" ("id", "value") VALUES (E'bostik', E'bostik');
 INSERT INTO "list" ("id", "value") VALUES (E'boston', E'boston');
